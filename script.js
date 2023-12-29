@@ -155,4 +155,5 @@ buttonFocus.addEventListener("click", () => {
 })
 
 showTimer()
+changeContext("foco")
 
